@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/25e4e032-7b42-4791-94d2-c049274800eb/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/avrimiApp"
+}
